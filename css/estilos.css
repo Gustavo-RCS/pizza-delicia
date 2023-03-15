@@ -1,0 +1,95 @@
+body {
+    margin: 0px;
+    font-family: 'Segoe UI';
+    font-size: 14px;
+}
+
+header {
+    display: flex;
+    background-color: brown;
+    justify-content: center;
+}
+
+header img {
+    height: 120px;
+    margin-right: 10px;
+}
+
+h2{
+    color: white;
+    font-size: 40px;
+    margin-left: 10px;
+}
+nav {
+    background-color: rgb(163, 55, 55);
+    text-align: center;
+    padding: 5px 0px;
+}
+
+nav a {
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px blueviolet;
+}
+
+nav a:hover {
+    color: rgb(255, 200, 0);
+    font-weight: bold;
+    text-shadow: 1px 1px 2px blueviolet;
+}
+
+footer {
+    background-color: rgb(185, 50, 50);
+    color: white;
+    text-align: center;
+    padding: 5px 0px;
+    font-family: fantasy;
+}
+
+footer a {
+    color:rgb(255, 200, 0);
+    text-decoration: none;
+    text-shadow: 1px 1px 2px blueviolet;
+}
+
+footer a:hover {
+    color:blueviolet;
+    text-shadow: 1px 1px 2px rgb(255, 200, 0);
+}
+
+.fotos {
+    height: 200px;
+}
+
+#container {
+    margin: 25px;
+    padding: 60px 110px 60px 110px;
+    text-align: center;
+}
+
+#texto-cima {
+    display: flex;
+    margin-top: 25px;
+}
+
+#texto-baixo {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+h3 {
+    padding: 0px 15px;
+}
+
+p {
+    padding: 0px 15px;
+}
+
+
+
+
+
+
